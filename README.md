@@ -27,7 +27,3 @@ The Database Checker provides a basic login-style form where users can enter the
 Correct one
 Username: Shah
 Password: shah123
-
-Incorrect one
-Username: Nawaz
-Password: nawaz2223
